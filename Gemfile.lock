@@ -1,0 +1,10 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    discogs-wrapper (1.1.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  discogs-wrapper
